@@ -111,7 +111,6 @@ if party_wear_result:
 else:
  print("No frequent sequential patterns found in Party Wear.")### Output:)
 ```
-### Output:
 
 ### Visualization:
 ```python
